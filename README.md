@@ -1,2 +1,2 @@
 # bitcoin-wallet-seed
-Title
+
